@@ -5,6 +5,8 @@ handmadehero
 
 #Setup env.
 1. Install font liberation-mono
+https://www.fontsquirrel.com/fonts/liberation-mono
+
 2. Go to C:\Users\gnr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 add misc/startup.bat in this dir.
 
